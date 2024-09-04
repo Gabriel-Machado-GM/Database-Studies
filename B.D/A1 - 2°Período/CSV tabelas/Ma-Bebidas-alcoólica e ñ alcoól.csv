@@ -1,0 +1,15 @@
+﻿id;Descricao;Umidade(%);Energia(kcal);Energia(kJ);Proteina(g);Lipideos(g);Colesterol(mg);Carboidratos(g);Fibra_Alimentar(g);Cinzas(g);Calcio(mg);Magnesio(mg)
+270;Bebida isotônica, sabores variados;93,5;26;107;0,0;0,0;NA;6,4;NA;0,1;1;Tr
+271;Café, infusão 10%;97,4;9;38;0,7;0,1;NA;1,5;NA;0,4;3;10
+272;Cana, aguardente 1;;216;902;;;NA;;NA;;Tr;Tr
+273;Cana, caldo de;81,7;65;273;Tr;Tr;NA;18,2;0,1;0,1;9;12
+274;Cerveja, pilsen 2;92,4;41;170;0,6;Tr;NA;3,3;NA;0,1;5;7
+275;Chá, erva-doce, infusão 5%;99,6;1;6;0,0;0,0;NA;0,4;NA;0,0;2;1
+276;Chá, mate, infusão 5%;99,3;3;11;0,0;0,1;NA;0,6;NA;0,0;1;2
+277;Chá, preto, infusão 5%;99,4;2;9;0,0;0,0;NA;0,6;NA;0,0;0;1
+278;Coco, água de;94,3;22;90;0,0;0,0;NA;5,3;0,1;0,5;19;5
+279;Refrigerante, tipo água tônica;92,0;31;129;0,0;0,0;NA;8,0;NA;0,0;1;Tr
+280;Refrigerante, tipo cola;91,3;34;140;0,0;0,0;NA;8,7;NA;0,1;1;Tr
+281;Refrigerante, tipo guaraná;90,0;39;162;0,0;0,0;NA;10,0;NA;0,0;1;Tr
+282;Refrigerante, tipo laranja;88,2;46;191;0,0;0,0;NA;11,8;NA;0,0;2;1
+283;Refrigerante, tipo limão;89,7;40;166;0,0;0,0;NA;10,3;NA;0,0;2;1

@@ -1,0 +1,18 @@
+Lembrar de: LEFT(), MIN() e MAX()
+DISTINCT
+--------------------------------------------------------------------------------
+#SQL 1
+# Qual a melhor loja (maior receita)?
+--------------------------------------------------------------------------------
+#SQL 2
+# Quando foi a última vez em que cada um dos meus clientes alugou um filme?
+--------------------------------------------------------------------------------
+#SQL 3
+#Quais categorias agradam mais minha base de clientes?
+--------------------------------------------------------------------------------
+#SQL 4
+#Qual a minha receita por mês?
+--------------------------------------------------------------------------------
+#SQL BONUS - Deve utilizar a cláusula DISTINCT
+#Quantos clientes temos por mês? Não considere os clientes recorrentes,
+apenas os únicos

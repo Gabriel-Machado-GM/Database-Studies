@@ -1,0 +1,10 @@
+﻿id;Descricao;Umidade(%);Energia(kcal);Energia(kJ);Proteina(g);Lipideos(g);Colesterol(mg);Carboidratos(g);Fibra_Alimentar(g);Cinzas(g);Calcio(mg);Magnesio(mg)
+511;Café, pó, torrado;2,9;419;1752;14,7;11,9;NA;65,8;51,2;4,7;107;165
+512;Capuccino, pó;2,6;417;1746;11,3;8,6;29;73,6;2,4;3,8;467;71
+513;Fermento em pó, químico;7,1;90;375;0,5;0,1;NA;43,9;NA;48,5; ; 
+514;Fermento, biológico, levedura, tablete;71,9;90;376;17,0;1,5;NA;7,7;4,2;1,9;18;38
+515;Gelatina, sabores variados, pó;1,2;380;1591;8,9;Tr;NA;89,2;NA;0,6;27;2
+516;Sal, dietético;0,6;NA;NA;NA;NA;NA;NA;NA;99,4;;
+517;Sal, grosso;0,4;NA;NA;NA;NA;NA;NA;NA;;;
+518;Shoyu;70,6;61;255;3,3;0,3;NA;11,6;NA;14,1;15;24
+519;Tempero a base de sal;7,7;21;89;2,7;0,3;NA;2,1;0,6;87,3;;

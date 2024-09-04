@@ -1,0 +1,15 @@
+﻿id;Descricao;Umidade(%);Energia(kcal);Energia(kJ);Proteina(g);Lipideos(g);Colesterol(mg);Carboidratos(g);Fibra_Alimentar(g);Cinzas(g);Calcio(mg);Magnesio(mg)
+259;Azeite, de dendê;NA;884;3699;NA;100,0;NA;NA;NA;;;
+260;Azeite, de oliva, extra virgem;NA;884;3699;NA;100,0;NA;NA;NA;;;
+261;Manteiga, com sal;15,8;726;3037;0,4;82,4;201;0,1;NA;1,4;9;1
+262;Manteiga, sem sal;13,6;758;3170;0,4;86,0;214;0,0;NA;0,1;4;1
+263;Margarina, com óleo hidrogenado, com sal (65% de lipídeos);32,2;596;2494;Tr;67,4;NA;0,0;NA;1,9;6;1
+264;Margarina, com óleo hidrogenado, sem sal (80% de lipídeos);19,6;723;3023;Tr;81,7;NA;0,0;NA;0,2;3;1
+265;Margarina, com óleo interesterificado, com sal (65%de lipídeos);32,0;594;2487;Tr;67,2;NA;0,0;NA;1,2;5;1
+266;Margarina, com óleo interesterificado, sem sal (65% de lipídeos);33,4;593;2482;Tr;67,1;NA;0,0;NA;0,1;5;1
+267;Óleo, de babaçu;NA;884;3699;NA;100,0;NA;NA;NA;;;
+268;Óleo, de canola;NA;884;3699;NA;100,0;NA;NA;NA;;;
+269;Óleo, de girassol;NA;884;3699;NA;100,0;NA;NA;NA;;;
+270;Óleo, de milho;NA;884;3699;NA;100,0;NA;NA;NA;;;
+271;Óleo, de pequi;NA;884;3699;NA;100,0;NA;NA;NA;;;
+272;Óleo, de soja;NA;884;3699;NA;100,0;NA;NA;NA;;;
